@@ -7,7 +7,7 @@ $(function () {
         title: "",
         type: 4 /*第二页*/
     }, {
-        img: "images/page_2.png",
+        img: "images/page_2.jpg",
         num: 0,
         text: ["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;　　这是一部“又热烈又恬静，又深刻又朴素，又温柔又高傲，又微妙又率直”的书信集：一位中国父亲给远在欧洲学艺的孩子的家书。傅雷以一个过来人的身份，把自己的人生的智慧、生活的经验、艺术的体会、文化的感悟，都毫无保留地贡献了出来。"],
         title: "《傅雷家书》",
