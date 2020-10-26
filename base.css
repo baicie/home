@@ -263,11 +263,14 @@ button {
 
 .book_box .text_pl {
     color: black;
-    font-size: 18px;
-    line-height: 30px;
+    font-size: 14px;
+    line-height: 25px;
     width: 480px;
     margin: 0 auto;
     margin-bottom: 25px;
+    position: absolute;
+    top: 80px;
+    padding-left: 20px;
 }
 .book_box .book_text .school_list {
     width: 100%;
@@ -330,5 +333,5 @@ button {
 .my_img {
     position: absolute;
     bottom: 60px;
-    left: 10px;
+    left: 80px;
 }
