@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>翻书效果</title>
+    <link rel="stylesheet" href="base.css">
+    <style>
+        #cover {
+            position: absolute;
+            left:42.5px;
+            background: url(images/page_11.jpg) no-repeat;
+            background-size: 530px 720px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="book_box" style="z-index: 0">
+        <div class="book_content flipbook"></div>
+        <div id="cover" class="cover">
+            <h1 class="w_title">河北师范大学</h1>
+        </div>
+        <div class="Shadowe">
+            <div class="book_text"></div>
+        </div>
+    </div>
+
+    <script src="js/jquery-1.10.2.js"></script>
+    <script type="text/javascript" src="js/turn.js"></script>
+    <script type="text/javascript" src="js/base.js"></script>
+
+</body>
+
+</html>
